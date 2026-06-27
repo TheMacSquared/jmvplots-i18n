@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-06-27 05:36+0000\n"
-"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jmvplots-i18n/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -336,7 +336,9 @@ msgstr "次數 (可選)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "建立基於 'ggplot2' 的精美且互動式圖表。此套件旨在為 jamovi 中的 'ggplot2' 提供便捷的操作層。"
+msgstr ""
+"建立基於 'ggplot2' 的精美且互動式圖表。此套件旨在為 jamovi 中的 'ggplot2' 提"
+"供便捷的操作層。"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
