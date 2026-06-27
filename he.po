@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-03-19 10:09+0000\n"
-"Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
+"PO-Revision-Date: 2026-06-27 05:36+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/he/>\n"
 "Language: he\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #: R/jmvbar.b.R
 msgid "{var} (mean{error})"
@@ -338,7 +338,9 @@ msgstr "ספירות (רשות)"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "יצירת תרשימים יפים ואינטראקטיביים הבנויים על ”ggplot2“. החבילה נוצרה כדי להוסיף שכבת נוחות ל”ggplot2“ בתוך jamovi."
+msgstr ""
+"יצירת תרשימים יפים ואינטראקטיביים הבנויים על ”ggplot2“. החבילה נוצרה כדי "
+"להוסיף שכבת נוחות ל”ggplot2“ בתוך jamovi."
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
