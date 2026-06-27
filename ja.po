@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
 "PO-Revision-Date: 2026-06-27 05:36+0000\n"
-"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jmvplots-"
 "i18n/ja/>\n"
 "Language: ja\n"
@@ -336,7 +336,10 @@ msgstr "度数（任意）"
 
 #: package.description
 msgid "Create elegant and interactive plots built on 'ggplot2'. The package is designed to provide a convenience layer to 'ggplot2' within jamovi."
-msgstr "ggplot2をベースにした、洗練されたインタラクティブなプロットを作成します。このパッケージは jamovi 内でggplot2への便利なレイヤーを提供することを目的としています。"
+msgstr ""
+"ggplot2をベースにした、洗練されたインタラクティブなプロットを作成します。この"
+"パッケージは jamovi 内でggplot2への便利なレイヤーを提供することを目的としてい"
+"ます。"
 
 #: R/pareto.b.R
 msgid "Cumulative Percentage"
