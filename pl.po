@@ -1298,3 +1298,424 @@ msgstr "Tytuł osi Y"
 #: scat/options/legendPositionY.title
 msgid "Y-position"
 msgstr "Pozycja Y"
+
+#: package/analyses/jmvhist.menuGroup
+#: package/analyses/ridge.menuGroup
+msgid "Distribution"
+msgstr "Rozkład"
+
+#: package/analyses/jmvbar.menuGroup
+#: package/analyses/jmvbox.menuGroup
+msgid "Comparison"
+msgstr "Porównania"
+
+#: package/analyses/scat.menuGroup
+#: package/analyses/hexbin.menuGroup
+msgid "Correlation"
+msgstr "Zależności"
+
+#: package/analyses/jmvline.menuGroup
+msgid "Evolution"
+msgstr "Trendy"
+
+#: package/analyses/pareto.menuGroup
+msgid "Other"
+msgstr "Inne"
+
+#: package/analyses/stackbar.menuGroup
+#: package/analyses/waffle.menuGroup
+#: package/analyses/treemap.menuGroup
+msgid "Composition"
+msgstr "Części całości"
+
+#: package/analyses/dens.title
+msgid "Density Plot"
+msgstr "Wykres gęstości"
+
+#: package/analyses/qq.title
+msgid "Q-Q Plot"
+msgstr "Wykres Q-Q"
+
+#: package/analyses/violin.title
+msgid "Violin Plot"
+msgstr "Wykres skrzypcowy"
+
+#: package/analyses/stripmean.title
+msgid "Strip Plot"
+msgstr "Wykres punktowy grup"
+
+#: package/analyses/area.title
+msgid "Area Plot"
+msgstr "Wykres warstwowy"
+
+#: package/analyses/bubble.title
+msgid "Bubble Plot"
+msgstr "Wykres bąbelkowy"
+
+#: package/analyses/stackbar.title
+msgid "Stacked Bar Plot"
+msgstr "Skumulowany wykres słupkowy"
+
+#: package/analyses/waffle.title
+msgid "Waffle Plot"
+msgstr "Wykres waflowy"
+
+#: package/analyses/treemap.title
+msgid "Treemap"
+msgstr "Mapa drzewa"
+
+#: dens/options/bwAdjust.title
+msgid "Bandwidth adjustment"
+msgstr "Korekta szerokości pasma"
+
+#: qq/options/qqLine.title
+msgid "Show reference line"
+msgstr "Pokaż linię odniesienia"
+
+#: qq/options/standardize.title
+msgid "Standardize data"
+msgstr "Standaryzuj dane"
+
+#: qq/options/pointOpacity.title
+msgid "Point opacity"
+msgstr "Przezroczystość punktów"
+
+#: qq/ui.label
+msgid "Points"
+msgstr "Punkty"
+
+#: R/qq.b.R
+msgid "Theoretical quantiles"
+msgstr "Kwantyle teoretyczne"
+
+#: R/qq.b.R
+msgid "Sample quantiles"
+msgstr "Kwantyle z próby"
+
+#: violin/options/trim.title
+msgid "Trim tails"
+msgstr "Przytnij ogony"
+
+#: violin/options/violinOpacity.title
+msgid "Violin opacity"
+msgstr "Przezroczystość skrzypiec"
+
+#: violin/options/innerBox.title
+msgid "Show box plot inside"
+msgstr "Pokaż pudełko wewnątrz"
+
+#: violin/options/innerBoxWidth.title
+msgid "Box width"
+msgstr "Szerokość pudełka"
+
+#: violin/options/showPoints.title
+msgid "Show data points"
+msgstr "Pokaż punkty danych"
+
+#: violin/options/pointJitter.title
+msgid "Jitter width"
+msgstr "Szerokość rozrzutu (jitter)"
+
+#: stripmean/options/showMean.title
+msgid "Show mean"
+msgstr "Pokaż średnią"
+
+#: stripmean/options/ciWidth.title
+msgid "Interval"
+msgstr "Przedział"
+
+#: violin/ui.label
+msgid "Violin Element"
+msgstr "Skrzypce"
+
+#: violin/ui.label
+msgid "Data Points"
+msgstr "Punkty danych"
+
+#: area/options/x.title
+msgid "X Variable"
+msgstr "Zmienna X"
+
+#: area/options/y.title
+msgid "Y Variable"
+msgstr "Zmienna Y"
+
+#: bubble/options/size.title
+msgid "Size Variable"
+msgstr "Zmienna rozmiaru"
+
+#: area/options/areaOpacity.title
+msgid "Area opacity"
+msgstr "Przezroczystość obszaru"
+
+#: area/options/stacked.title
+msgid "Stack areas"
+msgstr "Kumuluj obszary"
+
+#: bubble/options/maxSize.title
+msgid "Maximum bubble size"
+msgstr "Maksymalny rozmiar bąbelka"
+
+#: area/ui.label
+msgid "Area"
+msgstr "Obszar"
+
+#: area/ui.label
+msgid "Stacking"
+msgstr "Kumulowanie"
+
+#: bubble/ui.label
+msgid "Bubbles"
+msgstr "Bąbelki"
+
+#: stackbar/options/segments.title
+msgid "Segments Variable"
+msgstr "Zmienna segmentów"
+
+#: stackbar/options/barType.title
+msgid "Bar heights"
+msgstr "Wysokość słupków"
+
+#: stackbar/options/barType.percent.title
+msgid "Proportions (100%)"
+msgstr "Proporcje (100%)"
+
+#: stackbar/options/barWidth.title
+msgid "Bar width"
+msgstr "Szerokość słupka"
+
+#: stackbar/options/percentLabels.title
+msgid "Show percentage labels"
+msgstr "Pokaż etykiety procentowe"
+
+#: R/stackbar.b.R
+msgid "Proportion"
+msgstr "Proporcja"
+
+#: R/stackbar.b.R
+msgid "Count"
+msgstr "Liczebność"
+
+#: waffle/options/rows.title
+msgid "Rows"
+msgstr "Wiersze"
+
+#: waffle/ui.label
+msgid "Grid"
+msgstr "Siatka"
+
+#: R/waffle.b.R
+msgid "Each square = 1% of the total"
+msgstr "Każdy kwadrat = 1% całości"
+
+#: treemap/options/size.title
+msgid "Size Variable (optional)"
+msgstr "Zmienna rozmiaru (opcjonalnie)"
+
+#: treemap/options/showLabels.title
+msgid "Show labels"
+msgstr "Pokaż etykiety"
+
+#: treemap/options/showValues.title
+msgid "Show values"
+msgstr "Pokaż wartości"
+
+#: stackbar/options/percentLabelsPosition.title
+msgid "Labels position"
+msgstr "Położenie etykiet"
+
+#: R/waffle.b.R
+msgid "Each square = 1% of the group's total"
+msgstr "Każdy kwadrat = 1% sumy grupy"
+
+#: waffle/options/percentLabelsPosition.legend.title
+msgid "In legend"
+msgstr "W legendzie"
+
+#: package/analyses/jmvbar.menuGroup
+msgid "Ranking"
+msgstr "Ranking"
+
+#: package/analyses/raincloud.title
+msgid "Raincloud Plot"
+msgstr "Wykres chmurowy (raincloud)"
+
+#: raincloud/options/cloudScale.title
+msgid "Cloud width"
+msgstr "Szerokość chmury"
+
+#: raincloud/ui.label
+msgid "Cloud"
+msgstr "Chmura"
+
+#: raincloud/ui.label
+msgid "Box"
+msgstr "Pudełko"
+
+#: raincloud/options/showBox.title
+msgid "Show box plot"
+msgstr "Pokaż wykres pudełkowy"
+
+#: package/analyses/lollipop.title
+msgid "Lollipop Plot"
+msgstr "Wykres lizakowy"
+
+#: package/analyses/circbar.title
+msgid "Circular Bar Plot"
+msgstr "Kolisty wykres słupkowy"
+
+#: lollipop/options/y.title
+msgid "Value Variable (optional)"
+msgstr "Zmienna wartości (opcjonalna)"
+
+#: lollipop/options/aggregation.title
+msgid "Summary"
+msgstr "Podsumowanie"
+
+#: lollipop/options/aggregation.sum.title
+msgid "Sum"
+msgstr "Suma"
+
+#: lollipop/options/sortBars.title
+msgid "Sort by value"
+msgstr "Sortuj według wartości"
+
+#: lollipop/options/lineWidth.title
+msgid "Line width"
+msgstr "Grubość linii"
+
+#: circbar/options/innerHole.title
+msgid "Inner hole size"
+msgstr "Wielkość pustego środka"
+
+#: circbar/options/valueLabels.title
+msgid "Show value labels"
+msgstr "Pokaż etykiety wartości"
+
+#: lollipop/ui.label
+msgid "Lollipop Element"
+msgstr "Element lizakowy"
+
+#: circbar/ui.label
+msgid "Bar Element"
+msgstr "Element słupkowy"
+
+#: package/analyses/radar.title
+msgid "Radar Plot"
+msgstr "Wykres radarowy"
+
+#: package/analyses/parcoord.title
+msgid "Parallel Coordinates Plot"
+msgstr "Wykres współrzędnych równoległych"
+
+#: radar/options/vars.title
+msgid "Variables"
+msgstr "Zmienne"
+
+#: radar/options/fillOpacity.title
+msgid "Fill opacity"
+msgstr "Przezroczystość wypełnienia"
+
+#: radar/options/showGrid.title
+msgid "Show grid rings"
+msgstr "Pokaż pierścienie siatki"
+
+#: parcoord/options/lineOpacity.title
+msgid "Line opacity"
+msgstr "Przezroczystość linii"
+
+#: radar/ui.label
+msgid "Polygons"
+msgstr "Wielokąty"
+
+#: parcoord/ui.label
+msgid "Lines"
+msgstr "Linie"
+
+#: R/radar.b.R
+msgid "Axes show min–max normalized values"
+msgstr "Osie pokazują wartości znormalizowane (min–maks)"
+
+#: R/parcoord.b.R
+msgid "Normalized value (min–max)"
+msgstr "Wartość znormalizowana (min–maks)"
+
+#: package/analyses/wordcloud.title
+msgid "Word Cloud"
+msgstr "Chmura słów"
+
+#: wordcloud/options/maxWords.title
+msgid "Maximum words"
+msgstr "Maksymalna liczba słów"
+
+#: wordcloud/options/minFontSize.title
+msgid "Smallest font size"
+msgstr "Najmniejszy rozmiar czcionki"
+
+#: wordcloud/options/maxFontSize.title
+msgid "Largest font size"
+msgstr "Największy rozmiar czcionki"
+
+#: wordcloud/ui.label
+msgid "Words"
+msgstr "Słowa"
+
+#: wordcloud/ui.label
+msgid "Font sizes"
+msgstr "Rozmiary czcionki"
+
+#: package/analyses/heatmap.title
+msgid "Heatmap"
+msgstr "Mapa ciepła"
+
+#: heatmap/options/showValues.title
+msgid "Show values in cells"
+msgstr "Pokaż wartości w komórkach"
+
+#: heatmap/options/valueDigits.title
+msgid "Decimal places"
+msgstr "Miejsca dziesiętne"
+
+#: heatmap/ui.label
+msgid "Cell Values"
+msgstr "Wartości komórek"
+
+#: package/analyses/corrgram.title
+msgid "Correlogram"
+msgstr "Korelogram"
+
+#: corrgram/options/method.title
+msgid "Correlation method"
+msgstr "Metoda korelacji"
+
+#: corrgram/options/method.pearson.title
+msgid "Pearson"
+msgstr "Pearsona"
+
+#: corrgram/options/method.spearman.title
+msgid "Spearman"
+msgstr "Spearmana"
+
+#: corrgram/options/shape.title
+msgid "Matrix"
+msgstr "Macierz"
+
+#: corrgram/options/shape.full.title
+msgid "Full matrix"
+msgstr "Pełna macierz"
+
+#: corrgram/options/shape.lower.title
+msgid "Lower triangle"
+msgstr "Dolny trójkąt"
+
+#: corrgram/options/showCoef.title
+msgid "Show coefficients"
+msgstr "Pokaż współczynniki"
+
+#: corrgram/ui.label
+msgid "Coefficients"
+msgstr "Współczynniki"
+
+#: package/analyses/mosaic.title
+msgid "Mosaic Plot"
+msgstr "Wykres mozaikowy"
