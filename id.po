@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 2021-07-26 12:08:06+01000\n"
-"PO-Revision-Date: 2026-06-27 05:36+0000\n"
+"PO-Revision-Date: 2026-08-12 00:46+0000\n"
 "Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jmvplots-i18n/id/>\n"
@@ -11,12 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #: R/jmvbar.b.R
-#, fuzzy
 msgid "{var} (mean{error})"
-msgstr "{var} (rata-rata{error})"
+msgstr "{var} (rata-rata{galat})"
 
 #: jmvbar/ui/mode/continuous[1][0][0][0]/yAxisRangeType_ci/ciWidth.suffix
 #: jmvline/ui/mode/aggregate[0][1][0]/yAxisRangeType_ci/ciWidth.suffix
@@ -99,9 +98,8 @@ msgid "an image containing the line plot"
 msgstr "gambar yang berisi plot garis"
 
 #: scat/results/plot.description
-#, fuzzy
 msgid "an image containing the scatter plot"
-msgstr "gambar yang berisi plot.scatter"
+msgstr "gambar yang berisi plot sebar"
 
 #: jmvbar/options/yAxisRangeType/auto.title
 #: jmvbox/options/yAxisRangeType/auto.title
@@ -127,9 +125,8 @@ msgstr "Sumbu"
 
 #: jmvbar/ui[1][0][0][0].label
 #: pareto/ui[1][0][0][0].label
-#, fuzzy
 msgid "Bar"
-msgstr "Bar"
+msgstr "Batang"
 
 #: package/analyses/jmvbar.title
 #: package/analyses/jmvbar.menuTitle
@@ -140,18 +137,16 @@ msgid "Bar Plot"
 msgstr "Plot Batang"
 
 #: jmvbar/options/groupBarType.title
-#, fuzzy
 msgid "Bar type"
-msgstr "Tipe bar"
+msgstr "Tipe batang"
 
 #: jmvbar/ui[2][0][0][0].label
 msgid "Bar Type"
 msgstr "Tipe Bar"
 
 #: jmvhist/options/binOpacity.title
-#, fuzzy
 msgid "Bin opacity"
-msgstr "Ketebalan bin"
+msgstr "Opasitas bin"
 
 #: jmvhist/options/binWidth.title
 #, fuzzy
@@ -383,24 +378,20 @@ msgid "Density"
 msgstr "Kerapatan"
 
 #: jmvhist/options/densityOpacity.title
-#, fuzzy
 msgid "Density opacity"
-msgstr "Ketebalan kepadatan"
+msgstr "Densitas Opasitas"
 
 #: jmvline/options/groupColor.title
-#, fuzzy
 msgid "Different colors"
-msgstr "Warna yang berbeda"
+msgstr "Warna-warna berbeda"
 
 #: jmvline/options/groupLineType.title
-#, fuzzy
 msgid "Different line types"
-msgstr "Jenis garis yang berbeda"
+msgstr "Jenis-jenis garis yang berbeda"
 
 #: jmvline/options/groupPointType.title
-#, fuzzy
 msgid "Different point types"
-msgstr "Jenis titik yang berbeda"
+msgstr "Jenis-jenis titik yang berbeda"
 
 #: jmvbar/options/legendDirection.title
 #: jmvbox/options/legendDirection.title
