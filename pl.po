@@ -1719,3 +1719,59 @@ msgstr "Współczynniki"
 #: package/analyses/mosaic.title
 msgid "Mosaic Plot"
 msgstr "Wykres mozaikowy"
+
+#: R/utils.R
+msgid "This plot requires at least {} variables."
+msgstr "Ten wykres wymaga co najmniej {} zmiennych."
+
+#: radar/options/scaling.title
+msgid "Axis scaling"
+msgstr "Skalowanie osi"
+
+#: radar/options/scaling/minmax.title
+msgid "Min–max of observations"
+msgstr "Min–maks obserwacji"
+
+#: radar/options/scaling/robust.title
+msgid "Robust min–max (5th–95th percentile)"
+msgstr "Odporny min–maks (percentyle 5–95)"
+
+#: radar/options/scaling/pctmax.title
+msgid "Percent of the largest group mean"
+msgstr "Procent największej średniej grupowej"
+
+#: radar/options/scaling/percentile.title
+msgid "Percentile ranks"
+msgstr "Rangi percentylowe"
+
+#: R/radar.b.R
+msgid "Scaling by percent of the largest group mean requires a grouping variable."
+msgstr "Skalowanie „procent największej średniej grupowej” wymaga zmiennej grupującej."
+
+#: R/radar.b.R
+msgid "Axes: 0% = 5th percentile, 100% = 95th percentile of the observations"
+msgstr "Osie: 0% = 5. percentyl, 100% = 95. percentyl obserwacji"
+
+#: R/radar.b.R
+msgid "Axes: 100% = the largest group mean"
+msgstr "Osie: 100% = największa średnia grupowa"
+
+#: R/radar.b.R
+msgid "Axes show mean percentile ranks"
+msgstr "Osie pokazują średnie rangi percentylowe"
+
+#: raincloud/options/pointLayout.title
+msgid "Point layout"
+msgstr "Układ punktów"
+
+#: raincloud/options/pointLayout/jitter.title
+msgid "Random jitter"
+msgstr "Rozrzut losowy"
+
+#: raincloud/options/pointLayout/stack.title
+msgid "Stacks"
+msgstr "Stosy"
+
+#: raincloud/options/pointLayout/swarm.title
+msgid "Beeswarm"
+msgstr "Rój (beeswarm)"
