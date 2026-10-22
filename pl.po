@@ -123,6 +123,9 @@ msgstr "Słupek"
 #: jmvbar/options.title
 #: jmvbar/ui.title
 #: jmvbar/results.title
+#: package/analyses/stackbar.title
+#: stackbar/ui.title
+#: stackbar/results.title
 msgid "Bar Plot"
 msgstr "Wykres słupkowy"
 
@@ -1356,10 +1359,6 @@ msgstr "Wykres warstwowy"
 msgid "Bubble Plot"
 msgstr "Wykres bąbelkowy"
 
-#: package/analyses/stackbar.title
-msgid "Stacked Bar Plot"
-msgstr "Skumulowany wykres słupkowy"
-
 #: package/analyses/waffle.title
 msgid "Waffle Plot"
 msgstr "Wykres waflowy"
@@ -1481,8 +1480,12 @@ msgid "Bar heights"
 msgstr "Wysokość słupków"
 
 #: stackbar/options/barType.percent.title
-msgid "Proportions (100%)"
-msgstr "Proporcje (100%)"
+msgid "Proportions, stacked (100%)"
+msgstr "Proporcje w stosie (100%)"
+
+#: stackbar/options/barType.percentDodge.title
+msgid "Proportions"
+msgstr "Proporcje"
 
 #: stackbar/options/barWidth.title
 msgid "Bar width"
