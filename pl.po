@@ -1883,3 +1883,7 @@ msgstr "Bez zmian"
 #: R/dumbbell.b.R
 msgid "Value"
 msgstr "Wartość"
+
+#: radar/options/facet.title
+msgid "Separate radar for each group"
+msgstr "Osobny radar dla każdej grupy"
