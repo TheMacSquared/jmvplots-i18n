@@ -142,6 +142,10 @@ msgstr "Widoczność słupka"
 msgid "Bin width"
 msgstr "Szerokość słupka"
 
+#: jmvhist/options/binStart.title
+msgid "Bin start"
+msgstr "Początek przedziałów"
+
 #: jmvhist/options/binWidthType.title
 #: jmvhist/ui[1][0][0][0].label
 msgid "Bin Width"
