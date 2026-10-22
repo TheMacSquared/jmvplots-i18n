@@ -1887,3 +1887,19 @@ msgstr "Wartość"
 #: radar/options/facet.title
 msgid "Separate radar for each group"
 msgstr "Osobny radar dla każdej grupy"
+
+#: violin/options/mode.title
+msgid "Data format"
+msgstr "Format danych"
+
+#: violin/options/mode/long.title
+msgid "One variable"
+msgstr "Jedna zmienna"
+
+#: violin/options/mode/wide.title
+msgid "Several variables"
+msgstr "Kilka zmiennych"
+
+#: R/utils.R
+msgid "Observations per variable: {}."
+msgstr "Liczba obserwacji w zmiennych: {}."
