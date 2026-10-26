@@ -1309,7 +1309,7 @@ msgstr "Pozycja Y"
 #: package/analyses/jmvhist.menuGroup
 #: package/analyses/ridge.menuGroup
 msgid "Distribution"
-msgstr "Rozkład"
+msgstr "Rozkład – ilościowe"
 
 #: package/analyses/jmvbar.menuGroup
 #: package/analyses/jmvbox.menuGroup
@@ -1333,7 +1333,7 @@ msgstr "Inne"
 #: package/analyses/waffle.menuGroup
 #: package/analyses/treemap.menuGroup
 msgid "Composition"
-msgstr "Części całości"
+msgstr "Rozkład – jakościowe"
 
 #: package/analyses/dens.title
 msgid "Density Plot"
@@ -1903,3 +1903,23 @@ msgstr "Kilka zmiennych"
 #: R/utils.R
 msgid "Observations per variable: {}."
 msgstr "Liczba obserwacji w zmiennych: {}."
+
+#: discbar/ui.title
+msgid "Discrete Bar Plot"
+msgstr "Wykres słupkowy (zmienna dyskretna)"
+
+#: discbar/options/geom.title
+msgid "Shape"
+msgstr "Kształt"
+
+#: discbar/options/geom/bars.title
+msgid "Bars"
+msgstr "Słupki"
+
+#: discbar/options/geom/stems.title
+msgid "Stems"
+msgstr "Prążki"
+
+#: discbar/options/facet.title
+msgid "Separate panels"
+msgstr "Osobne panele dla grup"
