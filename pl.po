@@ -1309,7 +1309,7 @@ msgstr "Pozycja Y"
 #: package/analyses/jmvhist.menuGroup
 #: package/analyses/ridge.menuGroup
 msgid "Distribution"
-msgstr "Rozkład – ilościowe"
+msgstr "Rozkład ilościowe"
 
 #: package/analyses/jmvbar.menuGroup
 #: package/analyses/jmvbox.menuGroup
@@ -1333,7 +1333,7 @@ msgstr "Inne"
 #: package/analyses/waffle.menuGroup
 #: package/analyses/treemap.menuGroup
 msgid "Composition"
-msgstr "Rozkład – jakościowe"
+msgstr "Rozkład jakościowe"
 
 #: package/analyses/dens.title
 msgid "Density Plot"
