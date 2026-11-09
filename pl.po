@@ -78,7 +78,7 @@ msgstr "obraz zawierający wykres słupkowy"
 
 #: jmvbox/results/plot.description
 msgid "an image containing the box plot"
-msgstr "obraz zawierający wykres skrzynkowy"
+msgstr "obraz zawierający wykres pudełkowy"
 
 #: jmvhist/results/plot.description
 msgid "an image containing the histogram"
@@ -256,7 +256,7 @@ msgstr "Na dole"
 
 #: jmvbox/ui[1][0][0][0].label
 msgid "Box Element"
-msgstr "Element skrzynki"
+msgstr "Element pudełka"
 
 #: package/analyses/jmvbox.title
 #: package/analyses/jmvbox.menuTitle
@@ -264,7 +264,7 @@ msgstr "Element skrzynki"
 #: jmvbox/ui.title
 #: jmvbox/results.title
 msgid "Box Plot"
-msgstr "Wykres skrzynkowy"
+msgstr "Wykres pudełkowy"
 
 #: jmvbar/options/mode/categorical.title
 msgid "Categorical"
